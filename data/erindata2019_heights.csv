@@ -1,0 +1,159 @@
+"Individual","Plot","ht.diff","leafout","Species","Provenance","prov.lat","prov.long","BB.time","flo.time.start","fru.time.start","Height","Width","Cross.Sectional.Area"
+"AMECAN_GR_10",2,-18.6,135,"Amelanchier canadensis","Grant",44.794942,-71.146683,112,NA,NA,87,20,314
+"AMECAN_GR_10A",3,57.6,112,"Amelanchier canadensis","Grant",44.794942,-71.146683,97,112,140,348,NA,NA
+"AMECAN_GR_10B",3,68.4,112,"Amelanchier canadensis","Grant",44.794942,-71.146683,93,112,140,309.8,NA,NA
+"VIBCAS_SH_1",4,65.6,115,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,100,155,165,86.8,88.4,6134.4296
+"VIBCAS_GR_9",4,54.2,112,"Viburnum cassenoides","Grant",44.794942,-71.146683,103,150,168,140,118,10930.34
+"SPIALB_GR_12",4,-21.2,112,"Spiraea alba","Grant",44.794942,-71.146683,97,165,183,67.2,79.6,4973.8856
+"SPITOM_WM_5A",4,-23.4,115,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,100,197,NA,81,124,12070.16
+"SPIALB_WM_2A",4,-29.4,115,"Spiraea alba","White Mountains",44.112337,-71.230138,97,179,183,90,78,4775.94
+"MYRGAL_SH_1A",4,12.6,119,"Myrica gale","Saint-Hippolyte",45.932675,-74.02507,112,93,NA,32.2,152.4,18232.2216
+"AROMEL_WM_2",4,43.6,129,"Aronia melanocarpa","White Mountains",44.112337,-71.230138,93,135,150,87,102,8167.14
+"SPIALB_SH_9A",4,-61.6,112,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,93,161,183,68,109,9326.585
+"SPITOM_WM_5B",4,36.6,115,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,97,193,197,96.8,151.8,18088.9434
+"MYRGAL_SH_2A",4,7,115,"Myrica gale","Saint-Hippolyte",45.932675,-74.02507,112,93,NA,137.6,134.2,14137.5674
+"MYRGAL_GR_8A",4,26.6,119,"Myrica gale","Grant",44.794942,-71.146683,112,100,NA,136,123,11876.265
+"SPIALB_HF_1",4,-17.4,112,"Spiraea alba","Harvard Forest",42.531705,-72.18992,93,179,183,65,63,3115.665
+"SPIALB_WM_2B",4,49.2,115,"Spiraea alba","White Mountains",44.112337,-71.230138,97,179,183,173.2,230.8,41815.8824
+"SPITOM_SH_99",4,79.6,119,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,100,190,197,120,80,5024
+"MYRGAL_GR_8B",4,28.9,150,"Myrica gale","Grant",44.794942,-71.146683,123,142,NA,121,79,4899.185
+"SPITOM_SH_9",4,63.4,119,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,107,190,197,187,76,4534.16
+"SPITOM_WM_5C",4,70.6,115,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,97,190,197,168.2,189.6,28219.3056
+"SPIALB_SH_8",4,67,112,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,93,183,183,145,132,13677.84
+"MYRGAL_SH_1B",4,121.8,135,"Myrica gale","Saint-Hippolyte",45.932675,-74.02507,112,97,168,125,150,17662.5
+"SPIALB_GR_3",4,74.8,112,"Spiraea alba","Grant",44.794942,-71.146683,97,179,183,86,95,7084.625
+"VIBCAS_WM_4",4,74.6,115,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,103,155,168,94,92,6644.24
+"VIBCAS_GR_12A",4,38.5,115,"Viburnum cassenoides","Grant",44.794942,-71.146683,100,150,165,182.4,185.5,27012.04625
+"MYRGAL_WM_6A",4,47.3,127,"Myrica gale","White Mountains",44.112337,-71.230138,112,112,168,170.7,158,19596.74
+"AROMEL_WM_15",4,29,129,"Aronia melanocarpa","White Mountains",44.112337,-71.230138,97,123,147,72,95,7084.625
+"SPIALB_SH_4A",4,99.2,112,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,93,168,183,136.2,185.5,27012.04625
+"SPIALB_SH_7",4,84.1,115,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,93,168,183,131,81.2,5175.8504
+"MYRGAL_WM_6B",4,8.8,127,"Myrica gale","White Mountains",44.112337,-71.230138,112,115,168,146,139,15166.985
+"SPIALB_GR_7",4,21.4,112,"Spiraea alba","Grant",44.794942,-71.146683,93,168,183,151,143,16052.465
+"SPIALB_SH_4B",4,48.2,115,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,93,165,183,73,95,7084.625
+"SPIALB_WM_7A",4,64.6,112,"Spiraea alba","White Mountains",44.112337,-71.230138,97,179,183,161,140,15386
+"VIBCAS_GR_12B",4,55.4,115,"Viburnum cassenoides","Grant",44.794942,-71.146683,103,NA,NA,115,85,5671.625
+"MYRGAL_GR_8C",4,27.2,NA,"Myrica gale","Grant",44.794942,-71.146683,112,100,NA,121,108,9156.24
+"SPIALB_HF_8",4,72.1,112,"Spiraea alba","Harvard Forest",42.531705,-72.18992,93,179,183,72,150,17662.5
+"SPITOM_WM_5D",4,39.8,119,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,97,190,197,170,86,5805.86
+"SPIALB_SH_1",4,54.5,112,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,97,183,183,78,106,8820.26
+"MYRGAL_SH_2B",4,21.4,129,"Myrica gale","Saint-Hippolyte",45.932675,-74.02507,112,93,NA,149,179,25152.185
+"VIBCAS_SH_5",4,73.2,112,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,103,155,168,102,95,7084.625
+"MYRGAL_GR_8D",4,32.8,135,"Myrica gale","Grant",44.794942,-71.146683,112,NA,NA,33,50,1962.5
+"SPIALB_WM_7B",4,39.8,112,"Spiraea alba","White Mountains",44.112337,-71.230138,93,168,183,133,137,14733.665
+"SPITOM_WM_5E",4,55.2,119,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,103,193,197,105,106,8820.26
+"AROMEL_WM_5",4,2.4,142,"Aronia melanocarpa","White Mountains",44.112337,-71.230138,NA,NA,NA,444.5,NA,NA
+"SPIALB_SH_9B",4,46.6,115,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,97,168,183,399.5,NA,NA
+"VIBCAS_GR_10",4,37.6,115,"Viburnum cassenoides","Grant",44.794942,-71.146683,97,147,161,137,NA,NA
+"AMECAN_GR_10A",5,-12.4,135,"Amelanchier canadensis","Grant",44.794942,-71.146683,119,NA,NA,345.6,NA,NA
+"AMECAN_SH_4",5,49.9,112,"Amelanchier canadensis","Saint-Hippolyte",45.932675,-74.02507,93,112,135,306,NA,NA
+"AMECAN_GR_10B",5,-7.8,119,"Amelanchier canadensis","Grant",44.794942,-71.146683,93,112,135,129,NA,NA
+"AMECAN_SH_4",6,88,112,"Amelanchier canadensis","Saint-Hippolyte",45.932675,-74.02507,93,112,140,58,NA,NA
+"AMECAN_GR_10",6,77.4,112,"Amelanchier canadensis","Grant",44.794942,-71.146683,93,112,140,75,90,6358.5
+"SAMRAC_GR_2",7,84.2,112,"Sambucus racemosa","Grant",44.794942,-71.146683,93,119,135,52,61,2920.985
+"SAMRAC_GR_7A",7,49.4,112,"Sambucus racemosa","Grant",44.794942,-71.146683,93,123,135,99,145,16504.625
+"SAMRAC_GR_7B",7,44.4,112,"Sambucus racemosa","Grant",44.794942,-71.146683,93,127,140,92,140,15386
+"SAMRAC_GR_4",7,194.6,112,"Sambucus racemosa","Grant",44.794942,-71.146683,93,123,135,140,93,6789.465
+"SAMRAC_GR_9",7,41,112,"Sambucus racemosa","Grant",44.794942,-71.146683,93,119,135,55,85,5671.625
+"VIBCAS_SH_1A",8,49.6,112,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,93,NA,NA,149.2,103.4,8392.8746
+"AROMEL_HF_4",8,51.9,119,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,93,135,142,130,116,10562.96
+"VIBCAS_SH_5A",8,-0.799999999999997,115,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,103,155,168,90,51,2041.785
+"MYRGAL_WM_6A",8,5.8,119,"Myrica gale","White Mountains",44.112337,-71.230138,112,97,168,99,50,1962.5
+"VIBCAS_WM_4",8,46.2,115,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,107,155,168,105,63,3115.665
+"MYRGAL_SH_1",8,36.4,123,"Myrica gale","Saint-Hippolyte",45.932675,-74.02507,112,93,NA,172.4,119.6,11228.7656
+"VIBCAS_SH_5B",8,61.2,112,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,103,155,168,120,59,2732.585
+"AROMEL_HF_10",8,21.2,119,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,93,135,142,138,103.5,8409.11625
+"AROMEL_WM_7",8,-35.6,115,"Aronia melanocarpa","White Mountains",44.112337,-71.230138,93,135,150,111,81,5150.385
+"SPIALB_WM_7A",8,87.6,112,"Spiraea alba","White Mountains",44.112337,-71.230138,93,179,183,120,93,6789.465
+"VIBCAS_GR_12A",8,93.6,112,"Viburnum cassenoides","Grant",44.794942,-71.146683,97,147,168,135.8,99.6,7787.3256
+"SPITOM_GR_2B",8,42.6,112,"Spiraea tomentosa","Grant",44.794942,-71.146683,97,190,193,91,43,1451.465
+"SPITOM_WM_4A",8,39.8,115,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,97,190,193,93,34,907.46
+"SPITOM_HF_6A",8,42.2,115,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,97,190,193,110,53,2205.065
+"SPIALB_GR_12A",8,86.8,127,"Spiraea alba","Grant",44.794942,-71.146683,93,183,183,161.4,98.8,7662.7304
+"VIBCAS_SH_5C",8,43.6,112,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,103,155,168,149.5,126.5,12561.76625
+"SPIALB_GR_5",8,67.8,115,"Spiraea alba","Grant",44.794942,-71.146683,93,183,197,65,105,8654.625
+"SPIALB_WM_7B",8,58.4,112,"Spiraea alba","White Mountains",44.112337,-71.230138,97,168,183,122,84,5538.96
+"SPITOM_GR_2D",8,58.6,119,"Spiraea tomentosa","Grant",44.794942,-71.146683,100,190,197,120,64,3215.36
+"SPITOM_WM_5",8,59.8,115,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,97,190,197,130,54,2289.06
+"SPIALB_GR_12B",8,76.8,115,"Spiraea alba","Grant",44.794942,-71.146683,100,179,183,105,60,2826
+"SPIALB_GR_3",8,70.7,112,"Spiraea alba","Grant",44.794942,-71.146683,93,183,183,123,117,10745.865
+"MYRGAL_SH_2",8,-2.8,127,"Myrica gale","Saint-Hippolyte",45.932675,-74.02507,112,97,NA,115,55,2374.625
+"VIBCAS_GR_12B",8,30.8,112,"Viburnum cassenoides","Grant",44.794942,-71.146683,97,150,168,120,70,3846.5
+"SPITOM_WM_4B",8,39.6,115,"Spiraea tomentosa","White Mountains",44.112337,-71.230138,97,190,197,167,202.3,32126.35265
+"SPITOM_HF_13",8,45.6,119,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,100,193,197,152.2,108.1,9173.20385
+"SPIALB_HF_2",8,35.7,115,"Spiraea alba","Harvard Forest",42.531705,-72.18992,97,183,197,155.2,131.1,13491.95985
+"VIBCAS_WM_9A",8,41.4,112,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,97,NA,NA,85,NA,NA
+"VIBCAS_GR_5",8,73.4,112,"Viburnum cassenoides","Grant",44.794942,-71.146683,103,NA,NA,326.93,NA,NA
+"SPITOM_GR_1",8,54.4,119,"Spiraea tomentosa","Grant",44.794942,-71.146683,97,190,197,155.25,NA,NA
+"VIBCAS_SH_1B",8,57.2,115,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,100,155,168,132,NA,NA
+"VIBCAS_WM_9B",8,54.3,112,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,103,NA,NA,35,NA,NA
+"SPIALB_HF_3",8,48.6,112,"Spiraea alba","Harvard Forest",42.531705,-72.18992,93,179,197,94,NA,NA
+"SPIALB_GR_9",8,72.8,112,"Spiraea alba","Grant",44.794942,-71.146683,93,179,183,297.2,NA,NA
+"SPIALB_SH_7B",8,69.8,112,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,93,179,183,112,NA,NA
+"SPITOM_HF_9B",8,62.2,119,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,97,190,197,40,NA,NA
+"MYRGAL_WM_6B",8,30.6,119,"Myrica gale","White Mountains",44.112337,-71.230138,112,93,NA,15,NA,NA
+"SAMRAC_HF_A",10,110.6,115,"Sambucus racemosa","Harvard Forest",42.531705,-72.18992,86,168,183,131,73,4183.265
+"SAMRAC_GR_7",10,11.8,112,"Sambucus racemosa","Grant",44.794942,-71.146683,93,119,135,105,45,1589.625
+"SAMRAC_HF_B",10,51.4,115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"SAMRAC_GR_1",10,1.4,119,"Sambucus racemosa","Grant",44.794942,-71.146683,97,NA,NA,60,62,3017.54
+"MYRGAL_WM_6A",11,42.4,129,"Myrica gale","White Mountains",44.112337,-71.230138,112,100,NA,61,65,3316.625
+"SPITOM_GR_1A",11,49.2,119,"Spiraea tomentosa","Grant",44.794942,-71.146683,100,190,193,92,33,854.865
+"SPITOM_GR_1A",11,49.2,119,"Spiraea tomentosa","Grant",44.794942,-71.146683,97,190,193,110,NA,NA
+"SPIALB_HF_10",11,18.4,112,"Spiraea alba","Harvard Forest",42.531705,-72.18992,97,179,183,359.24,NA,NA
+"VIBCAS_WM_4",11,15.6,112,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,100,155,NA,170,NA,NA
+"SPIALB_HF_4A",11,66.2,112,"Spiraea alba","Harvard Forest",42.531705,-72.18992,93,168,183,194.13,NA,NA
+"SPIALB_WM_4A",11,66.8,112,"Spiraea alba","White Mountains",44.112337,-71.230138,93,179,183,330.45,NA,NA
+"MYRGAL_WM_6B",11,17,119,"Myrica gale","White Mountains",44.112337,-71.230138,112,107,NA,195,NA,NA
+"SPITOM_SH_99B",11,56.9,119,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,103,190,193,440,NA,NA
+"SPITOM_SH_99C",11,63.1,119,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,103,190,197,169,NA,NA
+"SPITOM_HF_5",11,7.2,150,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,112,197,197,111,NA,NA
+"SPIALB_WM_4B",11,46.4,112,"Spiraea alba","White Mountains",44.112337,-71.230138,93,168,183,172,NA,NA
+"SPIALB_WM_4C",11,43.2,112,"Spiraea alba","White Mountains",44.112337,-71.230138,93,168,183,393,NA,NA
+"SPIALB_WM_5",11,62.4,112,"Spiraea alba","White Mountains",44.112337,-71.230138,93,183,193,314,NA,NA
+"VIBCAS_WM_9A",11,54.3,119,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,103,NA,NA,53,NA,NA
+"SPITOM_SH_99E",11,68.6,119,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,97,190,197,100,NA,NA
+"SPIALB_HF_4B",11,65.1,115,"Spiraea alba","Harvard Forest",42.531705,-72.18992,100,183,193,75,NA,NA
+"VIBCAS_WM_9B",11,18.7,112,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,97,NA,NA,95,NA,NA
+"SPITOM_SH_99F",11,56.2,135,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,103,190,193,109,NA,NA
+"AROMEL_WM_5",11,7.4,119,"Aronia melanocarpa","White Mountains",44.112337,-71.230138,103,135,NA,285,NA,NA
+"VIBCAS_SH_9",11,8.8,119,"Viburnum cassenoides","Saint-Hippolyte",45.932675,-74.02507,100,NA,NA,112,NA,NA
+"VIBCAS_GR_10",11,73.4,115,"Viburnum cassenoides","Grant",44.794942,-71.146683,100,155,168,78,NA,NA
+"SPITOM_GR_1A",11,66.2,119,"Spiraea tomentosa","Grant",44.794942,-71.146683,100,190,193,92,33,854.865
+"SPITOM_GR_1A",11,66.2,119,"Spiraea tomentosa","Grant",44.794942,-71.146683,97,190,193,110,NA,NA
+"SPITOM_GR_1B",11,68.8,115,"Spiraea tomentosa","Grant",44.794942,-71.146683,100,183,193,283,NA,NA
+"SPITOM_HF_6",11,-6.1,155,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,112,NA,NA,20,NA,NA
+"AROMEL_HF_8A",11,16.8,119,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,NA,135,147,322,NA,NA
+"AROMEL_HF_8B",11,-0.800000000000011,115,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,97,135,147,120,NA,NA
+"VIBCAS_WM_10",11,9.9,112,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,100,NA,NA,45,77,4654.265
+"AROMEL_HF_12",11,-0.400000000000006,115,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,93,135,147,42,45,1589.625
+"SAMRAC_HF_A",13,220.2,115,"Sambucus racemosa","Harvard Forest",42.531705,-72.18992,86,168,183,103,NA,NA
+"SAMRAC_HF_B",13,138.2,119,"Sambucus racemosa","Harvard Forest",42.531705,-72.18992,86,168,183,91,NA,NA
+"SAMRAC_GR_8",13,152.6,112,"Sambucus racemosa","Grant",44.794942,-71.146683,93,119,135,116,NA,NA
+"SAMRAC_HF_C",13,104.6,115,"Sambucus racemosa","Harvard Forest",42.531705,-72.18992,86,168,183,75,NA,NA
+"SAMRAC_HF_D",13,124.5,115,"Sambucus racemosa","Harvard Forest",42.531705,-72.18992,86,183,183,NA,NA,NA
+"MYRGAL_WM_6",14,13.2,119,"Myrica gale","White Mountains",44.112337,-71.230138,107,100,NA,NA,NA,NA
+"VIBCAS_WM_7",14,19.6,119,"Viburnum cassenoides","White Mountains",44.112337,-71.230138,100,NA,NA,NA,NA,NA
+"AROMEL_WM_2",14,16.8,115,"Aronia melanocarpa","White Mountains",44.112337,-71.230138,97,135,150,NA,NA,NA
+"VIBCAS_GR_3",14,52.2,115,"Viburnum cassenoides","Grant",44.794942,-71.146683,97,NA,NA,NA,NA,NA
+"AROMEL_HF_13",14,12.8,115,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,93,135,147,NA,NA,NA
+"AROMEL_HF_12",14,27,115,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,93,135,142,NA,NA,NA
+"MYRGAL_SH_99",14,-12.2,119,"Myrica gale","Saint-Hippolyte",45.932675,-74.02507,107,142,168,NA,NA,NA
+"AMECAN_SH_3",15,41.1,112,"Amelanchier canadensis","Saint-Hippolyte",45.932675,-74.02507,93,112,150,NA,NA,NA
+"AMECAN_WM_1",2,NA,NA,"Amelanchier canadensis","White Mountains",44.112337,-71.230138,97,179,NA,170,169,22420.385
+"AROMEL_WM_7",4,NA,NA,"Aronia melanocarpa","White Mountains",44.112337,-71.230138,NA,NA,NA,72,109,9326.585
+"SPIALB_HF_4A",4,NA,NA,"Spiraea alba","Harvard Forest",42.531705,-72.18992,93,168,183,144.8,129,13063.185
+"AROMEL_HF_4",4,NA,NA,"Aronia melanocarpa","Harvard Forest",42.531705,-72.18992,93,NA,NA,246.5,NA,NA
+"AMECAN_SH_2",6,NA,NA,"Amelanchier canadensis","Saint-Hippolyte",45.932675,-74.02507,NA,NA,NA,63,48,1808.64
+"SPITOM_HF_4",8,NA,NA,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,97,190,197,105,120,11304
+"SPITOM_HF_9",8,NA,NA,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,93,193,197,105,65,3316.625
+"SPITOM_GR_2C",8,NA,NA,"Spiraea tomentosa","Grant",44.794942,-71.146683,107,190,197,169.7,167.2,21945.3344
+"SPIALB_SH_7A",8,NA,NA,"Spiraea alba","Saint-Hippolyte",45.932675,-74.02507,97,186,197,110,64,3215.36
+"SPITOM_HF_6B",8,NA,NA,"Spiraea tomentosa","Harvard Forest",42.531705,-72.18992,97,190,197,63,NA,NA
+"SAMRAC_HF",10,NA,NA,"Sambucus racemosa","Harvard Forest",42.531705,-72.18992,NA,NA,NA,120,87,5941.665
+"SAMRAC_GR_4",10,NA,NA,"Sambucus racemosa","Grant",44.794942,-71.146683,93,168,183,65,54,2289.06
+"SPITOM_SH_99A",11,NA,NA,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,NA,NA,NA,155,38,1133.54
+"SPITOM_SH_99_D",11,NA,NA,"Spiraea tomentosa","Saint-Hippolyte",45.932675,-74.02507,103,190,197,105,NA,NA
+"SPIALB_WM_2B",11,NA,NA,"Spiraea alba","White Mountains",44.112337,-71.230138,NA,193,197,125,NA,NA
+"SPIALB_WM_2A",11,NA,NA,"Spiraea alba","White Mountains",44.112337,-71.230138,93,NA,NA,41,NA,NA
+"SAMRAC_GR_4A",14,NA,NA,"Sambucus racemosa","Grant",44.794942,-71.146683,119,NA,NA,NA,NA,NA
+"VIBCAS_HF_7A",14,NA,NA,"Viburnum cassenoides","Harvard Forest",42.531705,-72.18992,107,NA,NA,NA,NA,NA
