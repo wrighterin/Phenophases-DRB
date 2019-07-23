@@ -114,5 +114,5 @@ ggplot(howmuchdata, aes(x=bb, y=ripening, col=species)) + geom_point() +
   theme(legend.text = element_text(face="italic"))
 
 
-
+write.csv(howmuchdata, file="~/Documents/git/Phenophases-DRB/data/2018data.csv", row.names=TRUE)
 
